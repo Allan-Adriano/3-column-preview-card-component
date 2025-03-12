@@ -1,0 +1,28 @@
+@import url('global.css');
+
+.card-suvs{
+    background: hsl(184, 100%, 22%);
+}
+
+.card-suvs h2{
+    font-family: "Big Shoulders", sans-serif;
+    color: hsl(0, 0%, 95%);
+}
+
+.card-suvs p{
+    font-family: "Lexend Deca", sans-serif;
+    color: hsla(0, 0%, 100%, 0.75) ;
+    margin-top: 40px;
+    margin-bottom: 80px;
+}
+
+.btn-suvs{
+    color:  hsl(184, 100%, 22%);
+    cursor: pointer;
+}
+
+.btn-suvs:hover{
+    background: transparent;
+    color:  hsl(0, 0%, 95%);
+    border: 3px solid  hsl(0, 0%, 95%);;
+}

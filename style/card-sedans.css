@@ -41,3 +41,9 @@ button {
     cursor: pointer;
 }
 
+.btn-sedans:hover{
+    color: hsl(0, 0%, 95%);;
+    background: transparent;
+    border: 3px solid  hsl(0, 0%, 95%);
+}
+
