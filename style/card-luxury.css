@@ -1,0 +1,29 @@
+.card-luxury{
+    background:hsl(179, 100%, 13%);
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+.card-luxury h2{
+    font-family: "Big Shoulders", sans-serif;
+    color: hsl(0, 0%, 95%);
+}
+
+.card-luxury p{
+    font-family: "Lexend Deca", sans-serif;
+    color: hsla(0, 0%, 100%, 0.75) ;
+    margin-top: 40px;
+    margin-bottom: 80px;
+}
+.btn-luxury{
+    color:hsl(179, 100%, 13%);
+    font-family: "Lexend Deca", sans-serif;
+    cursor: pointer;
+}
+
+
+.btn-luxury:hover{
+    color:hsl(0, 0%, 95%);
+    border: 3px solid hsl(0, 0%, 95%);
+    background: transparent;
+}
