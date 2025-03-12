@@ -1,0 +1,21 @@
+@media (max-width:730px){
+    .container{
+
+        flex-direction: column;
+        margin: 60px;
+        width: 70%;
+    }
+    .card-sedans{
+        border-top-left-radius: 8px;
+        border-top-right-radius: 8px;
+        border-bottom-left-radius: 0;
+    
+    }
+
+    .card-luxury{
+    border-top-right-radius: 0px;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    }
+   
+}
