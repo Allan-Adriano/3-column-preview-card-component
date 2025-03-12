@@ -1,0 +1,43 @@
+@import url('global.css');
+
+body{
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background:  hsl(0, 0%, 95%);
+}
+
+button {
+    padding: 15px;
+    border: none;
+    width: 120px;
+    background: hsl(0, 0%, 95%);
+    border-radius: 50px;
+}
+
+.card-sedans{
+    background-color: hsl(31, 77%, 52%);
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+
+.card-sedans h2{
+    font-family: "Big Shoulders", sans-serif;
+    color:hsl(0, 0%, 95%);
+}
+
+.card-sedans p {
+    font-family: "Lexend Deca", sans-serif;
+    color: hsla(0, 0%, 100%, 0.75) ;
+    margin-top: 40px;
+    margin-bottom: 80px;
+}
+
+.btn-sedans{
+    color:hsl(31, 77%, 52%);
+    font-family: "Lexend Deca", sans-serif;
+    cursor: pointer;
+}
+
